@@ -1,5 +1,6 @@
 # Zebrafish-EEG
 README for BBS-CCA for muscle artefact removal
+Authors: Prof. Hidenori Aizawa & Dr. Mayeso N.V. Gwedela
 
 
 A.Introduction 
